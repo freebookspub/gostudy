@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Golang Study',
   tagline: '学习golang的笔记和项目相关的总结与经验.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://gostudy.hi600.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
